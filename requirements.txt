@@ -1,0 +1,8 @@
+cryptography>=42.0.0
+pyjks>=20.0.0
+pyasn1>=0.6.0
+pyasn1-modules>=0.4.0
+pycryptodomex>=3.20.0
+javaobj-py3>=0.4.0
+PyQt6>=6.6.0
+pyinstaller>=6.0.0
